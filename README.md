@@ -25,7 +25,6 @@ Color Capture only analyzes the main RGB colors as well as black and white. I be
 * As noted above, ColorCapture can only be run in FireFox currently. Trying to run the html file in any other web browsers will result in the program not running correctly.
 
 # Meet the Team:
-Lead Developer - Mikey Morrissey
-Document Writers - Mikey Morrissey
-UI/UX Design - Mikey Morrissey
-
+* Lead Developer - Mikey Morrissey
+* Document Writers - Mikey Morrissey
+* UI/UX Design - Mikey Morrissey
